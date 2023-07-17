@@ -1,0 +1,39 @@
+c:\users\admin\documents\visual studio 2013\Projects\DoChiThanh_2121110198\Example1\bin\Debug\Example1.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\DoChiThanh_2121110198\Example1\bin\Debug\Example1.exe
+c:\users\admin\documents\visual studio 2013\Projects\DoChiThanh_2121110198\Example1\bin\Debug\Example1.pdb
+c:\users\admin\documents\visual studio 2013\Projects\DoChiThanh_2121110198\Example1\obj\Debug\Example01.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\DoChiThanh_2121110198\Example1\obj\Debug\Example1.Form1.resources
+c:\users\admin\documents\visual studio 2013\Projects\DoChiThanh_2121110198\Example1\obj\Debug\Example1.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\DoChiThanh_2121110198\Example1\obj\Debug\Example01.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\DoChiThanh_2121110198\Example1\obj\Debug\Example1.exe
+c:\users\admin\documents\visual studio 2013\Projects\DoChiThanh_2121110198\Example1\obj\Debug\Example1.pdb
+c:\users\admin\documents\visual studio 2013\Projects\DoChiThanh_2121110198\Example1\obj\Debug\Example1.Form2.resources
+c:\users\admin\documents\visual studio 2013\Projects\DoChiThanh_2121110198\Example1\obj\Debug\Example1.Form3.resources
+c:\users\admin\documents\visual studio 2013\Projects\DoChiThanh_2121110198\Example1\obj\Debug\Example1.Form4.resources
+c:\users\admin\documents\visual studio 2013\Projects\DoChiThanh_2121110198\Example1\obj\Debug\Example1.Form5.resources
+D:\Downloads\lequocnghiem\lequocnghiem_2121110155\Example1\bin\Debug\Example1.exe.config
+D:\Downloads\lequocnghiem\lequocnghiem_2121110155\Example1\obj\Debug\Example1.exe
+D:\Downloads\lequocnghiem\lequocnghiem_2121110155\Example1\obj\Debug\Example1.pdb
+D:\Downloads\lequocnghiem\lequocnghiem_2121110155\Example1\bin\Debug\Example1.exe
+D:\Downloads\lequocnghiem\lequocnghiem_2121110155\Example1\bin\Debug\Example1.pdb
+D:\Downloads\lequocnghiem\lequocnghiem_2121110155\Example1\obj\Debug\Example01.csprojResolveAssemblyReference.cache
+D:\Downloads\lequocnghiem\lequocnghiem_2121110155\Example1\obj\Debug\Example1.Form1.resources
+D:\Downloads\lequocnghiem\lequocnghiem_2121110155\Example1\obj\Debug\Example1.Form2.resources
+D:\Downloads\lequocnghiem\lequocnghiem_2121110155\Example1\obj\Debug\Example1.Form3.resources
+D:\Downloads\lequocnghiem\lequocnghiem_2121110155\Example1\obj\Debug\Example1.Form4.resources
+D:\Downloads\lequocnghiem\lequocnghiem_2121110155\Example1\obj\Debug\Example1.Form5.resources
+D:\Downloads\lequocnghiem\lequocnghiem_2121110155\Example1\obj\Debug\Example1.Properties.Resources.resources
+D:\Downloads\lequocnghiem\lequocnghiem_2121110155\Example1\obj\Debug\Example01.csproj.GenerateResource.Cache
+D:\lequocnghiem\lequocnghiem_2121110155\Example1\bin\Debug\Example1.exe.config
+D:\lequocnghiem\lequocnghiem_2121110155\Example1\obj\Debug\Example1.exe
+D:\lequocnghiem\lequocnghiem_2121110155\Example1\obj\Debug\Example1.pdb
+D:\lequocnghiem\lequocnghiem_2121110155\Example1\bin\Debug\Example1.exe
+D:\lequocnghiem\lequocnghiem_2121110155\Example1\bin\Debug\Example1.pdb
+D:\lequocnghiem\lequocnghiem_2121110155\Example1\obj\Debug\Example01.csprojResolveAssemblyReference.cache
+D:\lequocnghiem\lequocnghiem_2121110155\Example1\obj\Debug\Example1.Form1.resources
+D:\lequocnghiem\lequocnghiem_2121110155\Example1\obj\Debug\Example1.Form2.resources
+D:\lequocnghiem\lequocnghiem_2121110155\Example1\obj\Debug\Example1.Form3.resources
+D:\lequocnghiem\lequocnghiem_2121110155\Example1\obj\Debug\Example1.Form4.resources
+D:\lequocnghiem\lequocnghiem_2121110155\Example1\obj\Debug\Example1.Form5.resources
+D:\lequocnghiem\lequocnghiem_2121110155\Example1\obj\Debug\Example1.Properties.Resources.resources
+D:\lequocnghiem\lequocnghiem_2121110155\Example1\obj\Debug\Example01.csproj.GenerateResource.Cache
